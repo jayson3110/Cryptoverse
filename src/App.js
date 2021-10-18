@@ -14,6 +14,7 @@ export default function App() {
 
 
 		   </div>
+
 		   <div className="main">
 
 		      <Layout>
@@ -39,8 +40,6 @@ export default function App() {
 		                    <News  />
 		                </Route>
 		             </Switch>
-
-
 
 		          </div>
 		      </Layout>
